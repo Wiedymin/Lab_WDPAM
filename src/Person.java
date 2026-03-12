@@ -7,4 +7,5 @@ public class Person {
         this.name = name;
         this.email = email;
     }
+    private int wiek;
 }
