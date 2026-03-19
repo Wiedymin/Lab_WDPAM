@@ -1,6 +1,7 @@
 public class Person {
     private int id;
-    private String name;
+    public int age;
+    public int name;
     private String email;
     private String name;
     private String surname;
